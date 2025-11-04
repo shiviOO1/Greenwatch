@@ -51,11 +51,11 @@ This dataset contains 87,000 RGB images of healthy and diseased crop leaves cate
 
 #### 1. Disease Detection 
 
-https://github.com/shiviOO1/Greenwatch/assets/Detection.mp4
+[Watch Disease Detection Demo](https://github.com/shiviOO1/Greenwatch/raw/main/Detection.mp4)
 
 #### 2. ChatBot
 
-https://github.com/shiviOO1/Greenwatch/assets/ChatBot.mp4
+[Watch ChatBot Demo](https://github.com/shiviOO1/Greenwatch/raw/main/ChatBot.mp4)
 
 
 ## Virtual Environment 
